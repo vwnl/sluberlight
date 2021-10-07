@@ -1,0 +1,12 @@
+v1.07
+
++ When Sluber cannot be reached, display a yellow icon instead of quitting the application with a message.
++ When CDC is present set a 50ms timer to override CDC busylight usage.
+
+v1.06
+
++ When invalid JSON is detected, change the busylight into yellow instead of red.
+
+<= v1.05
+
+No release notes available for version 1.05 or below.
