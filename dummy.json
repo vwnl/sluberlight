@@ -1,0 +1,12 @@
+{
+	"jsonrpc": "2.0",
+	"result": [
+		{
+			"triggerid": "17802",
+			"description": "mv3call",
+			"priority": "4",
+			"tags": []
+		}
+	],
+	"id": 1
+}
