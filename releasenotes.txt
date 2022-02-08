@@ -1,3 +1,11 @@
+V9
+
+Renamed versioning number, to be cool and hip, like Firefox and Chrome.
+
++ Fixed a small bug where closing the program unexpectedly would leave the tray icon;
++ Upgraded BusylightSDK.dll to latest version (4.0.5.0), required for the 'new' busylights;
++ Added JSON parsing, so the details are a bit more human readable
+
 v1.07
 
 + When Sluber cannot be reached, display a yellow icon instead of quitting the application with a message.
