@@ -1,3 +1,7 @@
+V10
+
++ Fixed a bug where the application was visible while pushing alt-tab while minimized.
+
 V9
 
 Renamed versioning number, to be cool and hip, like Firefox and Chrome.
