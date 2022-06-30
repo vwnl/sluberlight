@@ -1,3 +1,9 @@
+V11
+
++ Changed default URL's to new Sluber location;
++ SluberLight now stores credentials in a JSON file, allowing for changes w/o needing a new version;
++ Made some variables global, needed for future development.
+
 V10
 
 + Fixed a bug where the application was visible while pushing alt-tab while minimized.
